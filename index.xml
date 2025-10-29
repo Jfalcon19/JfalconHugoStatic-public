@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bienvenido a mi sitio web on Jesús Falcón Jiménez - IES Gonzalo Nazareno</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Bienvenido a mi sitio web on Jesús Falcón Jiménez - IES Gonzalo Nazareno</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/about/</guid>
+      <description>Jesús Falcón Jiménez About me - Sobre mí Soy estudiante de ASIR en el segundo año, me gusta crear páginas web y en esta asignatura estoy aprendiendo mucho sobre implantación de aplicaciones web. ¡Ya he implantado algunas webs en lo que llevo de curso!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.com/proyecto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/proyecto/</guid>
+      <description>Esta es mi página de proyectos Voy a hacer spam de mi página web, es un proyecto personal Está creada con wordpress y elementor, está alojada es hostinger, he añadido la web a google y se puede ver desde cualquier lugar y con buena velocidad&#xA;Visita mi sitio web de wordpress alojado en hostinger jfalcon.es</description>
+    </item>
+  </channel>
+</rss>
